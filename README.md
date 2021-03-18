@@ -6,5 +6,7 @@ Design Pattern with java code.
 - polymorphism
 - observer
 - composite
+- command
+- decorator
 ### tips
 >Test code in Client class.
