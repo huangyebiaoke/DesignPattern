@@ -11,7 +11,7 @@ public class SurgeDecorator extends CondimentDecorator{
 
     @Override
     public String getDescription() {
-        return beverage.getDescription()+",surge";
+        return beverage.getDescription()+"+surge";
     }
 
     @Override
