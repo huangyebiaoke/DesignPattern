@@ -8,5 +8,6 @@ Design Pattern with java code.
 - composite
 - command
 - decorator
+- strategy
 ### tips
 >Test code in Client class.
